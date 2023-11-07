@@ -5,7 +5,7 @@ Aluno: Juliano Nepomuceno Carvalho
 
 RGA: 2021.1907.022-6
 
-ESPECIFICAÇÕES DO APP (até 07/06/2023)
+ESPECIFICAÇÕES DO APP (até 01/11/2023)
 - Visão Geral: Aplicativo de temática do Campeonato Brasileiro de Futebol, onde os "Usuários" cadastrados poderão simular "Escalações" para times de futebol, de acordo com as "Formações" escolhidas e os "Jogadores" disponíveis.
 - Papéis do Usuário (Tipo único de usuário permitido no aplicativo, uma vez que o cadastro será obrigatório):
   - Se cadastrar (COM FOTO - OBRIGATÓRIO);
